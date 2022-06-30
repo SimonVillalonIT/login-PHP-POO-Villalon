@@ -26,7 +26,7 @@ class UsuariosController extends ControladorBase{
         $this->view("index",array(
             "allusers"=>$allusers,
 			"allproducts" => $allproducts,
-            "Hola"    =>"Soy Víctor Robles"
+            "Hola"    =>"Soy Víctor Robles gola"
         ));
     }
     
